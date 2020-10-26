@@ -1,4 +1,4 @@
-# dotNet Logo Pack
+# dotNet Logo Pack by campusMVP
 
 Fan-made logos for .NET, ASP.NET and ASP.NET MVC **for .NET 5 and later**.
 
